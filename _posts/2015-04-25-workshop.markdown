@@ -1,9 +1,9 @@
 ---
 title:  "About Erica"
-subtitle: "It's always a bit messy"
+subtitle: "Really, who is she?"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/Profile Pic.jpg"
 date:   2015-04-25 12:12:12
 ---
 
