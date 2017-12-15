@@ -1,10 +1,8 @@
 ---
 title:  "About Erica"
 subtitle: "Really, who is she?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/Profile Pic.jpg"
-date:   2015-04-25 12:12:12
+image: "img/DSC_8375.jpg"
+
 ---
 
 ### Dolor sit amet?
