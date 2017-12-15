@@ -1,7 +1,7 @@
 ---
 title:  "About Erica"
 subtitle: "Really, who is she?"
-image: "img/DSC_8375.jpg"
+image: "img/Profile Pic.jpg"
 
 ---
 
